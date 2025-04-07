@@ -1,4 +1,4 @@
-AutoArchiver - an automatic archive generator / АвтоАрхиватор - автоматический генератор архивов
+[🇬🇧] AutoArchiver - an automatic archive generator // [🇷🇺] АвтоАрхиватор - автоматический генератор архивов
 ----
 <h3>[🇬🇧] Automate Your way to create archives</h3>
 <h3>[🇷🇺] Автоматизируйте способ создания архивов</h3>
