@@ -3,6 +3,9 @@
 <h3>[🇬🇧] Automate Your way to create archives</h3>
 <h3>[🇷🇺] Автоматизируйте способ создания архивов</h3>
 
+Download / Скачать
+----
+[Latest release / Последний релиз](https://github.com/wofiku/autoarchiver/releases/tag/release)
 
 Brief / Краткое описание
 ----
